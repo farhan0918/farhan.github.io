@@ -1,0 +1,122 @@
+body{
+    background-image: linear-gradient(to bottom right, #dce35b, #45b649);
+}
+header{
+    background-color: black;
+    width:100%;
+    position: fixed ;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 2px 0px 2px 10px;
+    text-align:justify;
+    box-shadow: 0px 3px 10px grey;
+}
+.logo{
+    float:left;
+    font-size: 40px;
+    margin-left: 10px;
+    color: white;
+}
+nav{
+    float:right;
+    padding-right: 15px;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+.lia {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    padding: 0px 16px;
+    text-decoration: none;
+}
+p{
+    margin-left: 40px;
+}
+.name{
+    font-size: 30px;
+    font-weight: bold;
+}
+section{
+    margin:0 auto;
+    display: block;
+    background-color: white;
+    text-align: justify;
+    width: 80%;
+    padding:50px 0px 0px 0px
+}
+h5{
+    display: block;
+    background-color: black;
+    width:100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+}
+.container{
+    background-color: white;
+}
+.page{
+    margin:0 auto;
+    display: block;
+    background-color: white;
+    text-align: justify;
+    width: 80%;
+    padding:20px 10px 20px 10px
+}
+
+.wallpaper{
+    width: 100%;
+    height: 300px;
+}
+
+.photo{
+    height: 200px;
+    width: 200px;
+    margin-top: -100px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    margin-left: 40px;
+}
+.tags{
+    color: grey;
+    padding-bottom: 15px;
+}
+
+.line{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.button{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.buttons{
+    margin-left: 20px;
+}
+
+button{
+    height: 30px;
+    border-radius : 15px ;
+    border: none;    
+    background-color: #2980b9;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+}
